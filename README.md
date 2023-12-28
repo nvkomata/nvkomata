@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+	<br>
+		<img src="i.svg" alt="nvkomata">
+	<br>
+</div>
 
 <!--
 **nvkomata/nvkomata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
