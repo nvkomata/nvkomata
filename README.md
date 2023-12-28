@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="i.svg" height="60px" width="800px" alt="nvkomata">
+		<img src="i.svg" height="120px" width="800px" alt="nvkomata">
 	<br>
 </div>
 
