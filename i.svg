@@ -4,7 +4,7 @@
 			<style>
                 .marquee {
                     height: 55px;
-                    width: 100%;
+                    width: 800px;
 
                     overflow: hidden;
                     position: relative;
